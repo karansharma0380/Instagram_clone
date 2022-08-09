@@ -12,8 +12,6 @@ Building an Instagram web app clone using MERN Stack ( MongoDB , Express.js , Re
 
 1. [Usage](#usage)
 2. [Todo](#todo)
-3. [Contribute](#contribute)
-4. [Image Copyright Claims](#image-copyright-claims)
 
 # Usage :
 
@@ -83,15 +81,5 @@ General :
 -    [x] Some serious code refactoring
 -    [x] JSDoc & comments ( still have some more work to do )
 -    [ ] Upgrade packages
-
-# Contribute :
-
-Show your support by 🌟 the project !!
-
-==== > Feel free to contribute <====
-
-# Image Copyright Claims :
-
-Many images used in the project belong to their respective creators/authors. No claim by me & those who use this project.
 
 **Thanks for reading**
